@@ -1,25 +1,20 @@
-# Todo List with TypeScript (HTML/CSS/JS/TypeScript)
+# Todo List React App
 
-Small, client‑side todo app. Built with plain HTML, CSS, JavaScript and TypeScript.
+A simple todo list application built with React, TypeScript, and Vite.
 
 ## Features
 - Add tasks
 - Edit tasks
 - Delete tasks
-- Change greeting name (per user)
-- Saves tasks and name in your browser (localStorage)
-
+- Saves tasks in your browser (localStorage)
 
 ## Screenshots 
 
-1. To-do-list
-   
-   ![Home](homepage.png)
-
+![Home](homepage.png)
 
 ## Run
 1. Clone or download this repository.
-2. Open the project folder in VS Code.
-3. Install and enable the "Live Server" extension.
-4. Open index.html and click "Go Live" (or right-click → "Open with Live Server").
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Open your browser to the URL shown in the terminal (usually `http://localhost:5173`).
 
